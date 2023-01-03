@@ -1,0 +1,42 @@
+{
+  "version": "0.0.18",
+  "logging": {
+    "debug": true,
+    "info": true,
+    "measure": true,
+    "warning": true,
+    "error": true
+  },
+  "config": {
+    "startauto": false,
+    "stopauto": false,
+    "stoponfail": false,
+    "progname": "HATB65_HW0_FT_Deviceexample_engineering_myfirstflow",
+    "debug": false,
+    "geometry": [
+      1,
+      40,
+      727,
+      453
+    ],
+    "sequencer": [
+      [
+        false,
+        "Temperature",
+        "",
+        0
+      ]
+    ]
+  },
+  "result": {
+    "logfilename": "C:\\Users\\jung\\ATE\\packages\\envs\\example_debug_display\\HATB65\\log\\20230103-160600_TestApp0.log"
+  },
+  "workaround": {
+    "break": false
+  },
+  "view": {
+    "sequencer": false,
+    "progress": false
+  },
+  "menu": {}
+}

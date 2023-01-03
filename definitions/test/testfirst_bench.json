@@ -1,0 +1,44 @@
+[
+  {
+    "name": "first_bench",
+    "hardware": "HW0",
+    "base": "FT",
+    "type": "custom",
+    "definition": {
+      "name": "first_bench",
+      "type": "custom",
+      "hardware": "HW0",
+      "base": "FT",
+      "docstring": [
+        "the 1. example "
+      ],
+      "input_parameters": {
+        "Temperature": {
+          "shmoo": true,
+          "min": -40.0,
+          "default": 25.0,
+          "max": 170.0,
+          "exp10": 0,
+          "unit": "\u00b0C",
+          "fmt": ".0f"
+        }
+      },
+      "output_parameters": {
+        "vout": {
+          "lsl": -Infinity,
+          "ltl": 1.0,
+          "nom": 1.0,
+          "utl": 5.0,
+          "usl": Infinity,
+          "exp10": 0,
+          "unit": "\u02fd",
+          "fmt": ".3f",
+          "mpr": false
+        }
+      },
+      "dependencies": {},
+      "patterns": []
+    },
+    "is_enabled": true
+  }
+]

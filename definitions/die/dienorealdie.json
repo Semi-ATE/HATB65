@@ -1,0 +1,13 @@
+[
+  {
+    "name": "norealdie",
+    "hardware": "HW0",
+    "maskset": "Example",
+    "quality": "Automotive",
+    "grade": "A",
+    "grade_reference": "",
+    "type": "ASSP",
+    "customer": "",
+    "is_enabled": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Deviceexample_engineering_myfirstflow",
+    "prog_name": "HATB65_HW0_FT_Deviceexample_engineering_myfirstflow",
+    "hardware": "HW0",
+    "base": "FT",
+    "test": "first_bench",
+    "is_default": true,
+    "is_enabled": false,
+    "is_changed": false
+  },
+  {
+    "name": "Deviceexample_engineering_myfirstflow",
+    "prog_name": "HATB65_HW0_FT_Deviceexample_engineering_myfirstflow",
+    "hardware": "HW0",
+    "base": "FT",
+    "test": "second_bench",
+    "is_default": true,
+    "is_enabled": false,
+    "is_changed": false
+  },
+  {
+    "name": "Deviceexample_engineering_myfirstflow",
+    "prog_name": "HATB65_HW0_FT_Deviceexample_engineering_myfirstflow",
+    "hardware": "HW0",
+    "base": "FT",
+    "test": "displayLevel",
+    "is_default": true,
+    "is_enabled": false,
+    "is_changed": false
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "317a8f72-8b77-11ed-bc36-a87eeab7baaf",
+    "prog_name": "HATB65_HW0_FT_Deviceexample_engineering_myfirstflow",
+    "hardware": "HW0",
+    "base": "FT",
+    "target": "Deviceexample",
+    "usertext": "myfirstflow",
+    "sequencer_type": "Fixed Temperature",
+    "temperature": "25",
+    "owner_name": "HW0_FT_Deviceexample_engineering",
+    "prog_order": 1,
+    "is_valid": true,
+    "cache_type": "",
+    "caching_policy": "disable",
+    "test_ranges": [
+      300,
+      100,
+      200
+    ],
+    "instance_count": 3,
+    "execution_sequence": {
+      "FT1A": [
+        0,
+        0,
+        0
+      ]
+    },
+    "patterns": {}
+  }
+]

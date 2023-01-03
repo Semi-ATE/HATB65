@@ -3,7 +3,13 @@
     "name": "engineering",
     "is_selected": true,
     "is_standard": true,
-    "programs": [],
-    "tests": []
+    "programs": [
+      "HATB65_HW0_FT_Deviceexample_engineering_myfirstflow"
+    ],
+    "tests": [
+      "first_bench",
+      "second_bench",
+      "displayLevel"
+    ]
   }
 ]

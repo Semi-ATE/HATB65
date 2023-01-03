@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Deviceexample",
+    "hardware": "HW0",
+    "package": "TO92",
+    "definition": {
+      "dies_in_package": [
+        "norealdie_1"
+      ],
+      "is_dual_die": 0,
+      "pin_names": [
+        {
+          "Vdd": [
+            [
+              "norealdie_1_Vdd",
+              "A",
+              "I"
+            ]
+          ]
+        },
+        {
+          "Vss": [
+            [
+              "norealdie_1_Vss",
+              "A",
+              "I"
+            ]
+          ]
+        },
+        {
+          "Out": [
+            [
+              "norealdie_1_Out",
+              "A",
+              "I"
+            ]
+          ]
+        }
+      ]
+    },
+    "is_enabled": true
+  }
+]

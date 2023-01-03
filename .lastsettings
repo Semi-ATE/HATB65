@@ -1,7 +1,7 @@
 {
     "settings": {
-        "hardware": "",
-        "base": "",
-        "target": ""
+        "hardware": "HW0",
+        "base": "FT",
+        "target": "Deviceexample"
     }
 }

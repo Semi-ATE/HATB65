@@ -1,0 +1,13 @@
+[
+  {
+    "name": "newproduct",
+    "device": "Deviceexample",
+    "hardware": "HW0",
+    "is_enabled": true,
+    "grade": "A",
+    "quality": "Automotive",
+    "grade_reference": "",
+    "type": "ASSP",
+    "customer": ""
+  }
+]
